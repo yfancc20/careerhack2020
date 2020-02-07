@@ -10,12 +10,6 @@ COLORS = [(255, 0, 0), (255, 165, 0), (255, 255, 0), (154, 205, 50), (0, 191, 25
           (156, 156, 156), (178, 223, 223), (139, 0, 0), (0, 139, 139), (255, 187, 255)]
 
 def get_coordinates(label, boxes):
-
-    r = random.randint(0,255)
-    g = random.randint(0,255)
-    b = random.randint(0,255)
-    color = (r, g, b)
-
     for b in boxes:
         points = np.array([[b[0], b[1]],[b[2], b[3]],[b[4], b[5]],[b[6], b[7]]], np.int32)
         cv2.polylines(src_img, pts=[points], isClosed=True, color=COLORS[label], thickness=1)
@@ -102,9 +96,10 @@ for idx in range(start, end + 1):
     with open(input_file) as json_file:
         data = json.load(json_file)
         processing(data)
-    
-    cv2.imshow('image', src_img)
-    cv2.waitKey(0)
 
+    cv2.imwrite('Draw/labeling_' + num_str + '.jpg', src_img)
+    
+    # cv2.imshow('image', src_img)
+    # cv2.waitKey(0)
     # src_img.save('Draw/labeling_origin_' + num_str + '.jpg', quality=100)
     # new_img.save('Draw/labeling_' + num_str + '.jpg', quality=100)
