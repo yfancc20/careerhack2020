@@ -1,0 +1,460 @@
+[
+  {
+    "input": 6,
+    "text": "YUM'S RESTAURANT",
+    "label": 0,
+    "boundingBox": [
+      51,
+      31,
+      214,
+      41,
+      213,
+      57,
+      50,
+      48
+    ]
+  },
+  {
+    "input": 6,
+    "text": "12635 ural Bowie RU Laurel ND 20708",
+    "label": 1,
+    "boundingBox": [
+      47,
+      44,
+      221,
+      50,
+      220,
+      65,
+      47,
+      58
+    ]
+  },
+  {
+    "input": 6,
+    "text": "TH (301 776 5002",
+    "label": 2,
+    "boundingBox": [
+      92,
+      59,
+      176,
+      60,
+      176,
+      70,
+      92,
+      69
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Walk In",
+    "boundingBox": [
+      91,
+      74,
+      158,
+      77,
+      158,
+      92,
+      90,
+      90
+    ]
+  },
+  {
+    "input": 6,
+    "text": "6/24/2018 0-1 19 PM",
+    "boundingBox": [
+      26,
+      83,
+      131,
+      94,
+      129,
+      111,
+      24,
+      100
+    ]
+  },
+  {
+    "input": 6,
+    "text": "347",
+    "boundingBox": [
+      182,
+      90,
+      219,
+      91,
+      219,
+      106,
+      181,
+      104
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Server Yums",
+    "boundingBox": [
+      25,
+      98,
+      91,
+      109,
+      89,
+      122,
+      23,
+      111
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Steak Cheese Egg Rolls (2)",
+    "label": 3,
+    "boundingBox": [
+      50,
+      123,
+      184,
+      123,
+      184,
+      138,
+      49,
+      138
+    ]
+  },
+  {
+    "input": 6,
+    "text": "4.49",
+    "label": 4,
+    "boundingBox": [
+      218,
+      124,
+      240,
+      124,
+      239,
+      134,
+      218,
+      133
+    ]
+  },
+  {
+    "input": 6,
+    "text": "4Wings w/ French Fries",
+    "label": 3,
+    "boundingBox": [
+      49,
+      140,
+      166,
+      139,
+      166,
+      153,
+      49,
+      153
+    ]
+  },
+  {
+    "input": 6,
+    "text": "7.20",
+    "label": 4,
+    "boundingBox": [
+      218,
+      140,
+      241,
+      139,
+      241,
+      150,
+      219,
+      150
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Mumbo s.",
+    "label": 3,
+    "boundingBox": [
+      50,
+      153,
+      102,
+      154,
+      101,
+      165,
+      50,
+      164
+    ]
+  },
+  {
+    "input": 6,
+    "text": "4 Wings w French fries",
+    "label": 3,
+    "boundingBox": [
+      47,
+      169,
+      169,
+      168,
+      169,
+      181,
+      47,
+      182
+    ]
+  },
+  {
+    "input": 6,
+    "text": "7.20",
+    "label": 4,
+    "boundingBox": [
+      221,
+      167,
+      243,
+      166,
+      243,
+      177,
+      221,
+      177
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Mumbo Set",
+    "label": 3,
+    "boundingBox": [
+      50,
+      181,
+      101,
+      181,
+      101,
+      192,
+      50,
+      192
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Hot Sauce et",
+    "label": 3,
+    "boundingBox": [
+      50,
+      194,
+      104,
+      193,
+      104,
+      203,
+      50,
+      204
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Homemade Hail Halt",
+    "label": 3,
+    "boundingBox": [
+      46,
+      211,
+      151,
+      207,
+      151,
+      220,
+      46,
+      223
+    ]
+  },
+  {
+    "input": 6,
+    "text": "1.89",
+    "label": 4,
+    "boundingBox": [
+      225,
+      207,
+      248,
+      206,
+      249,
+      216,
+      226,
+      218
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Food Subtotal: 20.78",
+    "label": 6,
+    "boundingBox": [
+      81,
+      228,
+      205,
+      224,
+      205,
+      237,
+      81,
+      240
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Bev Subtotal:",
+    "label": 3,
+    "boundingBox": [
+      85,
+      241,
+      161,
+      239,
+      161,
+      251,
+      85,
+      253
+    ]
+  },
+  {
+    "input": 6,
+    "text": "0.00",
+    "label": 4,
+    "boundingBox": [
+      173,
+      239,
+      205,
+      237,
+      206,
+      249,
+      174,
+      251
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Food Tax:",
+    "label": 7,
+    "boundingBox": [
+      105,
+      252,
+      161,
+      252,
+      161,
+      263,
+      105,
+      264
+    ]
+  },
+  {
+    "input": 6,
+    "text": "1.25",
+    "label": 8,
+    "boundingBox": [
+      178,
+      251,
+      205,
+      250,
+      205,
+      261,
+      179,
+      262
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Bey Tax:",
+    "label": 3,
+    "boundingBox": [
+      107,
+      264,
+      158,
+      264,
+      158,
+      277,
+      107,
+      277
+    ]
+  },
+  {
+    "input": 6,
+    "text": "0.00",
+    "label": 4,
+    "boundingBox": [
+      178,
+      263,
+      206,
+      262,
+      206,
+      273,
+      178,
+      274
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Total: 22.03",
+    "label": 10,
+    "boundingBox": [
+      111,
+      278,
+      212,
+      275,
+      213,
+      291,
+      111,
+      294
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Received: 22 03",
+    "boundingBox": [
+      101,
+      297,
+      203,
+      295,
+      204,
+      308,
+      101,
+      310
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Change.",
+    "label": 3,
+    "boundingBox": [
+      111,
+      310,
+      166,
+      310,
+      166,
+      324,
+      111,
+      324
+    ]
+  },
+  {
+    "input": 6,
+    "text": "0.00",
+    "label": 4,
+    "boundingBox": [
+      169,
+      309,
+      205,
+      309,
+      205,
+      322,
+      169,
+      323
+    ]
+  },
+  {
+    "input": 6,
+    "text": "PAID Cash",
+    "boundingBox": [
+      73,
+      328,
+      173,
+      328,
+      173,
+      345,
+      74,
+      346
+    ]
+  },
+  {
+    "input": 6,
+    "text": "Thank You",
+    "boundingBox": [
+      88,
+      352,
+      155,
+      351,
+      155,
+      365,
+      88,
+      367
+    ]
+  }
+]

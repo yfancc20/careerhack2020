@@ -3,17 +3,27 @@ import pandas as pd
 import json
 import random
 import cv2
+import difflib
 
-COLORS = [(255, 0, 0), (255, 165, 0), (255, 255, 0), (154, 205, 50), (0, 191, 255),
-          (0, 0, 255), (230, 230, 250), (0, 245, 255), (162, 205, 90), (139, 105, 20),
-          (255, 106, 106), (205, 38, 10), (255, 0, 255), (153, 50, 204), (139, 137, 137),
+COLORS = [(147, 20, 255), (0, 165, 255), (0, 255, 255),
+          (50, 205, 154), (255, 191, 0),
+          (50, 205, 154), (255, 191, 0),
+          (50, 205, 154), (255, 191, 0), 
+          (50, 205, 154), (255, 191, 0),
+          (205, 38, 10), (255, 0, 255), (153, 50, 204), (139, 137, 137),
           (156, 156, 156), (178, 223, 223), (139, 0, 0), (0, 139, 139), (255, 187, 255)]
 
 def get_coordinates(label, boxes):
     for b in boxes:
         points = np.array([[b[0], b[1]],[b[2], b[3]],[b[4], b[5]],[b[6], b[7]]], np.int32)
-        cv2.polylines(src_img, pts=[points], isClosed=True, color=COLORS[label], thickness=1)
-        
+        cv2.polylines(src_img, pts=[points], isClosed=True, color=COLORS[label], thickness=2)
+        # if label == 5 or label == 7 or label == 9:
+        #     if b[6]-b[4] != 0:
+        #         a = int((b[7]-b[5])/(b[6]-b[4])*(1000-b[4]))+b[5]
+        #     elif b[6]== b[4]:
+        #         a = b[5]
+        #     cv2.line(src_img,(b[6],b[7]),(1000,a),COLORS[label],1)
+
         # pairs = []
         # pairs.append({'x': b[0], 'y': b[1]})
         # pairs.append({'x': b[2], 'y': b[3]})
@@ -50,6 +60,15 @@ def get_coordinates(label, boxes):
         # draw_new.line(xy, fill=COLORS[label])
 
 
+
+def check_keyword(keyword, d):
+    ratio = difflib.SequenceMatcher(None, keyword, d['text']).ratio()
+    if ratio > 0.5:
+        return True
+    else:
+        return False
+
+
 def processing(data):
     # Get the max label
     labels = []
@@ -58,7 +77,10 @@ def processing(data):
             continue
         labels.append(d['label'])
 
-    max_label = max(labels)
+    if len(labels):
+        max_label = max(labels)
+    else:
+        max_label = 0
 
     # Process the data with the same label
     coordinates = []
@@ -70,6 +92,9 @@ def processing(data):
         # if i == 2: break
         bounding_boxes = []
         for d in data:
+            if check_keyword(keyword, d):
+                d['label'] = 0
+                print(d['text'])
             if 'label' not in d:
                 continue
             if d['label'] == i:
@@ -77,11 +102,11 @@ def processing(data):
         
         coordinates = get_coordinates(i, bounding_boxes)
         i += 1
-            
     
 
 start = 0
 end = 0
+keyword = 'Tax'
 for idx in range(start, end + 1):
     num_str = '{:04d}'.format(idx)
     image_file = 'Input/labeling_' + num_str + '.jpg'
@@ -92,7 +117,7 @@ for idx in range(start, end + 1):
 
     src_img = cv2.imread(image_file)
 
-    input_file = 'Lines_with_label/lines_' + num_str + '.json'
+    input_file = 'Lines/lines_' + num_str + '.json'
     with open(input_file) as json_file:
         data = json.load(json_file)
         processing(data)

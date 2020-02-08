@@ -1,0 +1,227 @@
+[
+  {
+    "input": 103,
+    "text": "GUESI",
+    "boundingBox": [ 113, 3, 287, 0, 288, 27, 115, 34 ]
+  },
+  {
+    "input": 103,
+    "text": "Table",
+    "boundingBox": [ 171, 43, 206, 40, 208, 53, 173, 56 ]
+  },
+  {
+    "input": 103,
+    "text": "Guests",
+    "boundingBox": [ 228, 38, 278, 35, 278, 48, 229, 50 ]
+  },
+  {
+    "input": 103,
+    "text": "Server",
+    "boundingBox": [ 292, 32, 341, 28, 342, 41, 294, 46 ]
+  },
+  {
+    "input": 103,
+    "text": "0741060",
+    "boundingBox": [ 368, 30, 518, 7, 523, 40, 373, 63 ]
+  },
+  {
+    "input": 103,
+    "text": "Date",
+    "boundingBox": [ 111, 52, 143, 49, 145, 61, 113, 64 ]
+  },
+  {
+    "input": 103,
+    "text": "COLIP/SAL-ENTREE-VEG POT-DESSERT-BEV",
+    "boundingBox": [ 153, 97, 531, 51, 533, 70, 155, 115 ]
+  },
+  {
+    "input": 103,
+    "text": "APF",
+    "boundingBox": [ 106, 107, 138, 103, 140, 118, 108, 122 ]
+  },
+  {
+    "input": 103,
+    "text": "Newark Buffet",
+    "label": 0,
+    "boundingBox": [ 241, 182, 463, 181, 463, 201, 241, 202 ]
+  },
+  {
+    "input": 103,
+    "text": "35201 Newark Blvd. #N Newark CA 94560",
+    "label": 1,
+    "boundingBox": [ 193, 205, 512, 204, 512, 224, 193, 224 ]
+  },
+  {
+    "input": 103,
+    "text": "510-818-1136",
+    "label": 2,
+    "boundingBox": [ 298, 227, 406, 227, 406, 246, 298, 246 ]
+  },
+  {
+    "input": 103,
+    "text": "http://www. newarkbuffet.com",
+    "boundingBox": [ 234, 251, 468, 250, 468, 271, 234, 271 ]
+  },
+  {
+    "input": 103,
+    "text": "05:25 PM",
+    "boundingBox": [ 170, 296, 243, 297, 243, 317, 170, 316 ]
+  },
+  {
+    "input": 103,
+    "text": "06/29/2019",
+    "boundingBox": [ 426, 297, 511, 297, 512, 316, 426, 317 ]
+  },
+  {
+    "input": 103,
+    "text": "Server : Tim-11",
+    "boundingBox": [ 170, 343, 293, 343, 293, 363, 170, 363 ]
+  },
+  {
+    "input": 103,
+    "text": "Tab B11",
+    "boundingBox": [ 172, 399, 260, 390, 264, 422, 175, 431 ]
+  },
+  {
+    "input": 103,
+    "text": "1P",
+    "boundingBox": [ 275, 404, 294, 402, 295, 423, 276, 425 ]
+  },
+  {
+    "input": 103,
+    "text": "OTY",
+    "boundingBox": [ 173, 447, 200, 448, 200, 464, 173, 463 ]
+  },
+  {
+    "input": 103,
+    "text": "NAME",
+    "boundingBox": [ 267, 446, 305, 446, 305, 463, 268, 463 ]
+  },
+  {
+    "input": 103,
+    "text": "L/P",
+    "boundingBox": [ 401, 444, 432, 444, 432, 462, 401, 463 ]
+  },
+  {
+    "input": 103,
+    "text": "PRICE",
+    "boundingBox": [ 469, 443, 516, 443, 516, 460, 469, 461 ]
+  },
+  {
+    "input": 103,
+    "text": "N",
+    "boundingBox": [ 172, 489, 173, 470, 184, 470, 183, 489 ]
+  },
+  {
+    "input": 103,
+    "text": "WEEKEND DINNER BUFFET 19.39",
+    "label": 3,
+    "boundingBox": [ 202, 469, 447, 465, 447, 484, 202, 488 ]
+  },
+  {
+    "input": 103,
+    "text": "39.98",
+    "label": 4,
+    "boundingBox": [ 464, 467, 515, 465, 516, 483, 465, 484 ]
+  },
+  {
+    "input": 103,
+    "text": "WEEKEND DINNER KIDS (3-5Y)",
+    "label": 3,
+    "boundingBox": [ 203, 492, 440, 489, 441, 508, 203, 511 ]
+  },
+  {
+    "input": 103,
+    "text": "7.99",
+    "label": 4,
+    "boundingBox": [ 478, 488, 518, 488, 518, 505, 479, 506 ]
+  },
+  {
+    "input": 103,
+    "text": "WEEKEND DINNER KIDS (6-10%)",
+    "label": 3,
+    "boundingBox": [ 200, 514, 448, 511, 448, 531, 201, 534 ]
+  },
+  {
+    "input": 103,
+    "text": "10.00",
+    "label": 4,
+    "boundingBox": [ 476, 533, 518, 533, 518, 551, 477, 552 ]
+  },
+  {
+    "input": 103,
+    "text": "SODA DRINK",
+    "label": 3,
+    "boundingBox": [ 199, 561, 294, 560, 294, 579, 199, 580 ]
+  },
+  {
+    "input": 103,
+    "text": "1.99",
+    "label": 4,
+    "boundingBox": [ 415, 559, 450, 557, 450, 575, 416, 577 ]
+  },
+  {
+    "input": 103,
+    "text": "7.96",
+    "label": 4,
+    "boundingBox": [ 481, 556, 521, 555, 522, 574, 482, 576 ]
+  },
+  {
+    "input": 103,
+    "text": "WEEKEND SENIOR DINNER",
+    "label": 3,
+    "boundingBox": [ 203, 584, 392, 581, 393, 601, 203, 604 ]
+  },
+  {
+    "input": 103,
+    "text": "18.09",
+    "label": 4,
+    "boundingBox": [ 478, 581, 522, 579, 522, 597, 478, 599 ]
+  },
+  {
+    "input": 103,
+    "text": "SUBTOTAL :",
+    "label": 5,
+    "boundingBox": [ 266, 632, 348, 631, 348, 650, 266, 651 ]
+  },
+  {
+    "input": 103,
+    "text": "84 .02",
+    "label": 6,
+    "boundingBox": [ 480, 628, 525, 627, 525, 646, 480, 646 ]
+  },
+  {
+    "input": 103,
+    "text": "Tax (9. 75%) :",
+    "label": 7,
+    "boundingBox": [ 249, 657, 348, 655, 348, 676, 249, 678 ]
+  },
+  {
+    "input": 103,
+    "text": "8.20",
+    "label": 8,
+    "boundingBox": [ 487, 652, 527, 651, 527, 670, 487, 672 ]
+  },
+  {
+    "input": 103,
+    "text": "TOTAL :",
+    "label": 9,
+    "boundingBox": [ 239, 683, 344, 682, 344, 716, 239, 717 ]
+  },
+  {
+    "input": 103,
+    "text": "92.22",
+    "label": 10,
+    "boundingBox": [ 440, 677, 528, 675, 528, 711, 441, 714 ]
+  },
+  {
+    "input": 103,
+    "text": "(: Thank You! :)",
+    "boundingBox": [ 303, 942, 456, 937, 456, 957, 304, 962 ]
+  },
+  {
+    "input": 103,
+    "text": "Please Come Again.",
+    "boundingBox": [ 295, 964, 461, 960, 461, 978, 295, 982 ]
+  }
+]

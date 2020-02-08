@@ -1,0 +1,182 @@
+[
+  {
+    "input": 87,
+    "text": "Maui Teriyaki",
+    "label": 0,
+    "boundingBox": [ 299, 126, 459, 132, 457, 168, 297, 162 ]
+  },
+  {
+    "input": 87,
+    "text": "27000 Marine Ave #103",
+    "label": 1,
+    "boundingBox": [ 245, 159, 506, 169, 505, 191, 244, 181 ]
+  },
+  {
+    "input": 87,
+    "text": "Redondo Beach, CA 90278",
+    "label": 1,
+    "boundingBox": [ 231, 182, 518, 192, 518, 215, 230, 205 ]
+  },
+  {
+    "input": 87,
+    "text": "(310) 973-3500",
+    "label": 2,
+    "boundingBox": [ 293, 208, 469, 215, 468, 238, 292, 230 ]
+  },
+  {
+    "input": 87,
+    "text": "Server: Annie",
+    "label": 3,
+    "boundingBox": [ 127, 254, 292, 257, 292, 279, 127, 276 ]
+  },
+  {
+    "input": 87,
+    "text": "Station: 1",
+    "label": 3,
+    "boundingBox": [ 500, 268, 629, 272, 629, 294, 499, 290 ]
+  },
+  {
+    "input": 87,
+    "text": "Order #: 168479",
+    "label": 4,
+    "boundingBox": [ 124, 300, 315, 308, 314, 332, 123, 324 ]
+  },
+  {
+    "input": 87,
+    "text": "Phone Order",
+    "label": 3,
+    "boundingBox": [ 490, 316, 628, 321, 627, 346, 489, 341 ]
+  },
+  {
+    "input": 87,
+    "text": "Customer Name :",
+    "label": 3,
+    "boundingBox": [ 122, 325, 298, 335, 297, 357, 120, 347 ]
+  },
+  {
+    "input": 87,
+    "text": "LEANNE",
+    "label": 3,
+    "boundingBox": [ 552, 346, 629, 348, 629, 370, 551, 368 ]
+  },
+  {
+    "input": 87,
+    "text": "Guests : 1",
+    "label": 3,
+    "boundingBox": [ 119, 351, 234, 357, 233, 380, 118, 375 ]
+  },
+  {
+    "input": 87,
+    "text": "> > SETTLED <",
+    "label": 3,
+    "boundingBox": [ 283, 410, 454, 418, 452, 460, 281, 452 ]
+  },
+  {
+    "input": 87,
+    "text": "1 Salmon Plate",
+    "label": 3,
+    "boundingBox": [ 115, 445, 294, 451, 293, 478, 114, 473 ]
+  },
+  {
+    "input": 87,
+    "text": "11.49",
+    "label": 4,
+    "boundingBox": [ 565, 465, 630, 465, 629, 489, 565, 488 ]
+  },
+  {
+    "input": 87,
+    "text": "1 Extra Shrimp",
+    "label": 3,
+    "boundingBox": [ 112, 470, 296, 479, 295, 505, 111, 496 ]
+  },
+  {
+    "input": 87,
+    "text": "1 . 45",
+    "label": 4,
+    "boundingBox": [ 578, 491, 630, 492, 629, 514, 578, 513 ]
+  },
+  {
+    "input": 87,
+    "text": "SUB TOTAL :",
+    "label": 5,
+    "boundingBox": [ 104, 525, 234, 528, 233, 550, 103, 547 ]
+  },
+  {
+    "input": 87,
+    "text": "12. 94",
+    "label": 6,
+    "boundingBox": [ 568, 543, 628, 544, 627, 567, 568, 565 ]
+  },
+  {
+    "input": 87,
+    "text": "Tax 1:",
+    "label": 7,
+    "boundingBox": [ 99, 550, 178, 552, 178, 573, 98, 570 ]
+  },
+  {
+    "input": 87,
+    "text": "1.23",
+    "label": 8,
+    "boundingBox": [ 579, 571, 631, 571, 630, 594, 579, 594 ]
+  },
+  {
+    "input": 87,
+    "text": "TOTAL:",
+    "label": 9,
+    "boundingBox": [ 86, 597, 168, 602, 167, 647, 84, 641 ]
+  },
+  {
+    "input": 87,
+    "text": "$14. 17",
+    "label": 10,
+    "boundingBox": [ 551, 625, 630, 626, 628, 671, 551, 670 ]
+  },
+  {
+    "input": 87,
+    "text": "Cash Tendered:",
+    "label": 3,
+    "boundingBox": [ 77, 672, 276, 681, 275, 710, 75, 702 ]
+  },
+  {
+    "input": 87,
+    "text": "20.00",
+    "label": 4,
+    "boundingBox": [ 563, 699, 632, 701, 631, 724, 562, 723 ]
+  },
+  {
+    "input": 87,
+    "text": "CHANGE :",
+    "label": 3,
+    "boundingBox": [ 69, 736, 171, 739, 170, 765, 68, 761 ]
+  },
+  {
+    "input": 87,
+    "text": "-5.83",
+    "label": 4,
+    "boundingBox": [ 567, 758, 636, 760, 635, 784, 566, 782 ]
+  },
+  {
+    "input": 87,
+    "text": "> > Ticket #: 7 <<",
+    "label": 3,
+    "boundingBox": [ 226, 799, 469, 809, 467, 859, 224, 849 ]
+  },
+  {
+    "input": 87,
+    "text": "Created: 10/25/2017 11: 14:30 AM",
+    "label": 4,
+    "boundingBox": [ 119, 845, 569, 865, 567, 896, 118, 875 ]
+  },
+  {
+    "input": 87,
+    "text": "SETTLED: 10/25/2017 11:28:31 AM",
+    "label": 4,
+    "boundingBox": [ 118, 877, 570, 897, 569, 928, 117, 908 ]
+  },
+  {
+    "input": 87,
+    "text": "THANK YOU!",
+    "label": 3,
+    "boundingBox": [ 275, 947, 418, 954, 417, 983, 273, 976 ]
+  }
+]

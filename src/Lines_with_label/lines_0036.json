@@ -1,0 +1,458 @@
+[
+  {
+    "input": 36,
+    "text": "VILLA D'ESTE RESTAURANT",
+    "label": 0,
+    "boundingBox": [
+      65,
+      22,
+      178,
+      9,
+      179,
+      18,
+      66,
+      31
+    ]
+  },
+  {
+    "input": 36,
+    "text": "186 Jericho Toke",
+    "label": 1,
+    "boundingBox": [
+      84,
+      29,
+      164,
+      20,
+      166,
+      30,
+      85,
+      39
+    ]
+  },
+  {
+    "input": 36,
+    "text": "floral park, NY 11001",
+    "label": 1,
+    "boundingBox": [
+      68,
+      41,
+      175,
+      28,
+      176,
+      39,
+      70,
+      52
+    ]
+  },
+  {
+    "input": 36,
+    "text": "(516) 354-1355",
+    "label": 2,
+    "boundingBox": [
+      87,
+      50,
+      160,
+      41,
+      162,
+      52,
+      88,
+      61
+    ]
+  },
+  {
+    "input": 36,
+    "text": "Server: Jerry",
+    "boundingBox": [
+      27,
+      80,
+      91,
+      75,
+      92,
+      86,
+      28,
+      92
+    ]
+  },
+  {
+    "input": 36,
+    "text": "Station: 6",
+    "boundingBox": [
+      174,
+      63,
+      231,
+      57,
+      232,
+      70,
+      176,
+      75
+    ]
+  },
+  {
+    "input": 36,
+    "text": "Dine In",
+    "boundingBox": [
+      104,
+      97,
+      142,
+      94,
+      143,
+      105,
+      105,
+      108
+    ]
+  },
+  {
+    "input": 36,
+    "text": "Table: 3",
+    "boundingBox": [
+      28,
+      115,
+      68,
+      113,
+      69,
+      124,
+      29,
+      127
+    ]
+  },
+  {
+    "input": 36,
+    "text": "Guests: 2",
+    "boundingBox": [
+      182,
+      100,
+      233,
+      95,
+      234,
+      108,
+      183,
+      112
+    ]
+  },
+  {
+    "input": 36,
+    "text": "1 Coffee",
+    "label": 3,
+    "boundingBox": [
+      28,
+      141,
+      68,
+      138,
+      69,
+      148,
+      29,
+      151
+    ]
+  },
+  {
+    "input": 36,
+    "text": "3.50",
+    "label": 4,
+    "boundingBox": [
+      211,
+      123,
+      235,
+      121,
+      235,
+      132,
+      211,
+      134
+    ]
+  },
+  {
+    "input": 36,
+    "text": "1 Glass House Wine",
+    "label": 3,
+    "boundingBox": [
+      27,
+      153,
+      117,
+      145,
+      118,
+      156,
+      28,
+      164
+    ]
+  },
+  {
+    "input": 36,
+    "text": "9.95",
+    "label": 4,
+    "boundingBox": [
+      210,
+      136,
+      237,
+      134,
+      238,
+      144,
+      210,
+      147
+    ]
+  },
+  {
+    "input": 36,
+    "text": "1 Jumbo Coctail Shrimp",
+    "label": 3,
+    "boundingBox": [
+      28,
+      164,
+      137,
+      155,
+      138,
+      167,
+      28,
+      176
+    ]
+  },
+  {
+    "input": 36,
+    "text": "12.95",
+    "label": 4,
+    "boundingBox": [
+      207,
+      148,
+      238,
+      146,
+      239,
+      158,
+      208,
+      160
+    ]
+  },
+  {
+    "input": 36,
+    "text": "1 Escargot Bourguign",
+    "label": 3,
+    "boundingBox": [
+      26,
+      176,
+      142,
+      168,
+      143,
+      180,
+      27,
+      188
+    ]
+  },
+  {
+    "input": 36,
+    "text": "10.95",
+    "label": 4,
+    "boundingBox": [
+      207,
+      162,
+      237,
+      159,
+      238,
+      170,
+      209,
+      173
+    ]
+  },
+  {
+    "input": 36,
+    "text": "1 Veal Zingaria",
+    "label": 3,
+    "boundingBox": [
+      25,
+      187,
+      101,
+      184,
+      102,
+      196,
+      26,
+      199
+    ]
+  },
+  {
+    "input": 36,
+    "text": "23.95",
+    "label": 4,
+    "boundingBox": [
+      207,
+      175,
+      241,
+      172,
+      241,
+      184,
+      208,
+      186
+    ]
+  },
+  {
+    "input": 36,
+    "text": "1 Duckling ala Arancio",
+    "label": 3,
+    "boundingBox": [
+      24,
+      200,
+      138,
+      193,
+      139,
+      205,
+      25,
+      212
+    ]
+  },
+  {
+    "input": 36,
+    "text": "25.95",
+    "label": 4,
+    "boundingBox": [
+      208,
+      188,
+      240,
+      186,
+      240,
+      197,
+      209,
+      199
+    ]
+  },
+  {
+    "input": 36,
+    "text": "SUB TOTAL:",
+    "label": 3,
+    "boundingBox": [
+      22,
+      225,
+      73,
+      223,
+      74,
+      235,
+      22,
+      237
+    ]
+  },
+  {
+    "input": 36,
+    "text": "87.25",
+    "label": 4,
+    "boundingBox": [
+      211,
+      215,
+      243,
+      213,
+      243,
+      226,
+      211,
+      228
+    ]
+  },
+  {
+    "input": 36,
+    "text": "Tax 1:",
+    "label": 3,
+    "boundingBox": [
+      21,
+      238,
+      52,
+      238,
+      53,
+      249,
+      21,
+      250
+    ]
+  },
+  {
+    "input": 36,
+    "text": "7.53",
+    "label": 4,
+    "boundingBox": [
+      216,
+      228,
+      243,
+      227,
+      243,
+      241,
+      216,
+      242
+    ]
+  },
+  {
+    "input": 36,
+    "text": "TOTAL:",
+    "label": 3,
+    "boundingBox": [
+      18,
+      265,
+      50,
+      264,
+      50,
+      277,
+      19,
+      277
+    ]
+  },
+  {
+    "input": 36,
+    "text": "$94.78",
+    "label": 4,
+    "boundingBox": [
+      206,
+      258,
+      246,
+      257,
+      246,
+      271,
+      206,
+      272
+    ]
+  },
+  {
+    "input": 36,
+    "text": "> > Ticket #: 7 <<",
+    "boundingBox": [
+      73,
+      291,
+      177,
+      289,
+      177,
+      303,
+      73,
+      305
+    ]
+  },
+  {
+    "input": 36,
+    "text": "12/8/2017 4:44:05 PM",
+    "boundingBox": [
+      69,
+      306,
+      188,
+      304,
+      188,
+      319,
+      69,
+      320
+    ]
+  },
+  {
+    "input": 36,
+    "text": "Thank you for dining at Ville D'Este",
+    "boundingBox": [
+      12,
+      351,
+      228,
+      353,
+      228,
+      369,
+      12,
+      367
+    ]
+  },
+  {
+    "input": 36,
+    "text": "Please come again soon.",
+    "boundingBox": [
+      9,
+      367,
+      145,
+      371,
+      144,
+      385,
+      9,
+      381
+    ]
+  }
+]

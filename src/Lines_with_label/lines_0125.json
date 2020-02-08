@@ -1,0 +1,174 @@
+[
+  {
+    "input": 125,
+    "text": "Bar Louie Huntsville",
+    "label": 0,
+    "boundingBox": [ 265, 315, 680, 312, 680, 356, 265, 358 ]
+  },
+  {
+    "input": 125,
+    "text": "365 The Bridge St. , Suite1",
+    "label": 1,
+    "boundingBox": [ 204, 366, 716, 362, 717, 407, 204, 410 ]
+  },
+  {
+    "input": 125,
+    "text": "Huntsville, AL, 35806",
+    "label": 1,
+    "boundingBox": [ 243, 414, 675, 412, 675, 456, 244, 458 ]
+  },
+  {
+    "input": 125,
+    "text": "Server :",
+    "label": 3,
+    "boundingBox": [ 46, 517, 181, 518, 180, 554, 46, 553 ]
+  },
+  {
+    "input": 125,
+    "text": "07/03/2015",
+    "label": 4,
+    "boundingBox": [ 695, 511, 904, 511, 904, 552, 695, 552 ]
+  },
+  {
+    "input": 125,
+    "text": "Cashier :",
+    "label": 3,
+    "boundingBox": [ 50, 561, 207, 562, 207, 603, 50, 603 ]
+  },
+  {
+    "input": 125,
+    "text": "143/2",
+    "label": 3,
+    "boundingBox": [ 53, 612, 149, 614, 149, 652, 53, 652 ]
+  },
+  {
+    "input": 125,
+    "text": "4:42 PM",
+    "label": 4,
+    "boundingBox": [ 756, 607, 905, 608, 905, 651, 756, 650 ]
+  },
+  {
+    "input": 125,
+    "text": "Guests: 1",
+    "label": 3,
+    "boundingBox": [ 48, 663, 227, 662, 227, 701, 48, 702 ]
+  },
+  {
+    "input": 125,
+    "text": "20111",
+    "label": 4,
+    "boundingBox": [ 798, 661, 903, 659, 902, 697, 797, 697 ]
+  },
+  {
+    "input": 125,
+    "text": "Reprint #: 1",
+    "boundingBox": [ 46, 712, 289, 711, 289, 752, 46, 753 ]
+  },
+  {
+    "input": 125,
+    "text": "Whiskey",
+    "label": 3,
+    "boundingBox": [ 45, 811, 187, 814, 186, 853, 44, 849 ]
+  },
+  {
+    "input": 125,
+    "text": "6.25",
+    "label": 4,
+    "boundingBox": [ 819, 810, 903, 809, 903, 846, 819, 845 ]
+  },
+  {
+    "input": 125,
+    "text": "Subtotal",
+    "label": 5,
+    "boundingBox": [ 46, 910, 204, 910, 204, 950, 46, 949 ]
+  },
+  {
+    "input": 125,
+    "text": "6.25",
+    "label": 6,
+    "boundingBox": [ 820, 909, 904, 906, 904, 947, 820, 946 ]
+  },
+  {
+    "input": 125,
+    "text": "Tax",
+    "label": 7,
+    "boundingBox": [ 47, 959, 112, 960, 112, 999, 46, 998 ]
+  },
+  {
+    "input": 125,
+    "text": "1.31",
+    "label": 8,
+    "boundingBox": [ 822, 953, 902, 953, 901, 994, 822, 993 ]
+  },
+  {
+    "input": 125,
+    "text": "Total",
+    "label": 9,
+    "boundingBox": [ 51, 1058, 146, 1057, 145, 1095, 50, 1097 ]
+  },
+  {
+    "input": 125,
+    "text": "7.56",
+    "label": 10,
+    "boundingBox": [ 817, 1054, 905, 1055, 904, 1095, 817, 1091 ]
+  },
+  {
+    "input": 125,
+    "text": "CASH",
+    "label": 3,
+    "boundingBox": [ 50, 1160, 129, 1160, 129, 1195, 51, 1195 ]
+  },
+  {
+    "input": 125,
+    "text": "10.00",
+    "label": 4,
+    "boundingBox": [ 802, 1155, 902, 1155, 902, 1193, 802, 1191 ]
+  },
+  {
+    "input": 125,
+    "text": "Change",
+    "label": 3,
+    "boundingBox": [ 47, 1206, 286, 1207, 285, 1248, 47, 1246 ]
+  },
+  {
+    "input": 125,
+    "text": "2 . 44",
+    "label": 4,
+    "boundingBox": [ 735, 1202, 896, 1200, 896, 1243, 735, 1245 ]
+  },
+  {
+    "input": 125,
+    "text": "Thank you for visiting us!",
+    "boundingBox": [ 205, 1302, 734, 1303, 734, 1347, 205, 1346 ]
+  },
+  {
+    "input": 125,
+    "text": "Ask us about hosting",
+    "boundingBox": [ 263, 1353, 675, 1354, 675, 1397, 263, 1396 ]
+  },
+  {
+    "input": 125,
+    "text": "your party or private event",
+    "boundingBox": [ 181, 1408, 733, 1403, 734, 1444, 182, 1449 ]
+  },
+  {
+    "input": 125,
+    "text": "at Bar Louie Huntsville!",
+    "boundingBox": [ 223, 1454, 715, 1451, 715, 1494, 224, 1497 ]
+  },
+  {
+    "input": 125,
+    "text": "Eat, Drink, Be Happy!",
+    "boundingBox": [ 244, 1501, 672, 1503, 671, 1547, 243, 1545 ]
+  },
+  {
+    "input": 125,
+    "text": "huntsville@bar louieamerica. com",
+    "boundingBox": [ 161, 1552, 780, 1551, 780, 1593, 161, 1595 ]
+  },
+  {
+    "input": 125,
+    "text": "Check Closed",
+    "boundingBox": [ 339, 1650, 597, 1648, 598, 1690, 339, 1692 ]
+  }
+]

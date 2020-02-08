@@ -1,0 +1,171 @@
+[
+  {
+    "input": 101,
+    "text": "Laurel Tavern Hermosa Beach",
+    "label": 0,
+    "boundingBox": [ 172, 165, 437, 170, 437, 191, 172, 186 ]
+  },
+  {
+    "input": 101,
+    "text": "1220 Hermosa Beach",
+    "boundingBox": [ 177, 186, 354, 191, 353, 209, 176, 204 ]
+  },
+  {
+    "input": 101,
+    "text": "Hermosa Beach, CA 90254",
+    "label": 1,
+    "boundingBox": [ 171, 206, 409, 212, 408, 233, 171, 227 ]
+  },
+  {
+    "input": 101,
+    "text": "Tel.",
+    "boundingBox": [ 172, 230, 210, 230, 210, 251, 171, 250 ]
+  },
+  {
+    "input": 101,
+    "text": "01/12/19 1:23 PM",
+    "boundingBox": [ 172, 254, 352, 258, 352, 280, 172, 276 ]
+  },
+  {
+    "input": 101,
+    "text": "Waiter 80 Sophie",
+    "boundingBox": [ 171, 278, 333, 283, 332, 304, 170, 300 ]
+  },
+  {
+    "input": 101,
+    "text": "Table 501 Cust 1",
+    "boundingBox": [ 174, 303, 340, 307, 340, 328, 174, 324 ]
+  },
+  {
+    "input": 101,
+    "text": "Order 1388",
+    "boundingBox": [ 172, 327, 276, 329, 276, 350, 172, 348 ]
+  },
+  {
+    "input": 101,
+    "text": "1 BTL BEER",
+    "label": 3,
+    "boundingBox": [ 171, 400, 274, 401, 273, 421, 171, 419 ]
+  },
+  {
+    "input": 101,
+    "text": "5.00",
+    "label": 4,
+    "boundingBox": [ 500, 402, 543, 400, 543, 420, 501, 422 ]
+  },
+  {
+    "input": 101,
+    "text": "1 BRUSSELS SPROUTS",
+    "label": 3,
+    "boundingBox": [ 172, 423, 352, 424, 351, 445, 172, 443 ]
+  },
+  {
+    "input": 101,
+    "text": "8.00",
+    "label": 4,
+    "boundingBox": [ 501, 426, 544, 424, 544, 443, 501, 444 ]
+  },
+  {
+    "input": 101,
+    "text": "1 CANTONESE TENDERS",
+    "label": 3,
+    "boundingBox": [ 169, 447, 360, 448, 360, 468, 169, 467 ]
+  },
+  {
+    "input": 101,
+    "text": "11.00",
+    "label": 4,
+    "boundingBox": [ 496, 449, 545, 447, 544, 468, 496, 469 ]
+  },
+  {
+    "input": 101,
+    "text": "1 GRILLED CHEESE",
+    "label": 3,
+    "boundingBox": [ 170, 470, 328, 471, 328, 490, 170, 490 ]
+  },
+  {
+    "input": 101,
+    "text": "12.00",
+    "label": 4,
+    "boundingBox": [ 496, 472, 543, 471, 543, 490, 496, 491 ]
+  },
+  {
+    "input": 101,
+    "text": "1 $ ADD GARLIC FRIES",
+    "label": 3,
+    "boundingBox": [ 169, 494, 370, 494, 370, 514, 169, 515 ]
+  },
+  {
+    "input": 101,
+    "text": "4.50",
+    "label": 4,
+    "boundingBox": [ 502, 495, 543, 494, 542, 515, 502, 516 ]
+  },
+  {
+    "input": 101,
+    "text": "Taxable:",
+    "label": 3,
+    "boundingBox": [ 357, 541, 434, 541, 434, 562, 357, 562 ]
+  },
+  {
+    "input": 101,
+    "text": "40.50",
+    "label": 4,
+    "boundingBox": [ 492, 543, 543, 542, 542, 562, 492, 563 ]
+  },
+  {
+    "input": 101,
+    "text": "Sub-total :",
+    "label": 5,
+    "boundingBox": [ 336, 588, 434, 588, 434, 609, 336, 609 ]
+  },
+  {
+    "input": 101,
+    "text": "40.50",
+    "label": 6,
+    "boundingBox": [ 492, 590, 541, 589, 540, 608, 492, 609 ]
+  },
+  {
+    "input": 101,
+    "text": "Taxes :",
+    "label": 7,
+    "boundingBox": [ 376, 612, 432, 613, 432, 632, 375, 631 ]
+  },
+  {
+    "input": 101,
+    "text": "3.85",
+    "label": 8,
+    "boundingBox": [ 498, 612, 541, 612, 541, 632, 497, 631 ]
+  },
+  {
+    "input": 101,
+    "text": "Total Due: 44.35",
+    "label": 9,
+    "boundingBox": [ 252, 658, 557, 657, 557, 680, 252, 680 ]
+  },
+  {
+    "input": 101,
+    "text": "THANK YOU! ! !",
+    "boundingBox": [ 307, 755, 423, 753, 423, 774, 308, 776 ]
+  },
+  {
+    "input": 101,
+    "text": "ALWAYS DRIVE SAFELY",
+    "boundingBox": [ 266, 780, 456, 778, 456, 799, 266, 801 ]
+  },
+  {
+    "input": 101,
+    "text": "Please visit our website:",
+    "boundingBox": [ 235, 831, 486, 829, 486, 852, 235, 854 ]
+  },
+  {
+    "input": 101,
+    "text": "www. laureltavern.com",
+    "boundingBox": [ 267, 856, 466, 855, 466, 878, 267, 880 ]
+  },
+  {
+    "input": 101,
+    "text": "INSTAGRAM: @laureltavern",
+    "boundingBox": [ 248, 881, 486, 879, 486, 903, 249, 905 ]
+  }
+]

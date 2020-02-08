@@ -1,0 +1,192 @@
+[
+  {
+    "input": 100,
+    "text": "KICKIN KAJUN KAPOLEI",
+    "label": 0,
+    "boundingBox": [ 295, 252, 493, 253, 493, 273, 295, 272 ]
+  },
+  {
+    "input": 100,
+    "text": "Ka Makana Ali'i",
+    "boundingBox": [ 324, 275, 474, 275, 474, 297, 324, 297 ]
+  },
+  {
+    "input": 100,
+    "text": "91-5431 Kapolei Parkway, Suite 426",
+    "label": 1,
+    "boundingBox": [ 226, 299, 562, 298, 562, 321, 226, 322 ]
+  },
+  {
+    "input": 100,
+    "text": "Kapolei, HI 96707",
+    "boundingBox": [ 313, 324, 486, 323, 486, 345, 314, 346 ]
+  },
+  {
+    "input": 100,
+    "text": "(808) 628-4771",
+    "label": 2,
+    "boundingBox": [ 332, 348, 466, 347, 466, 369, 332, 371 ]
+  },
+  {
+    "input": 100,
+    "text": "Server : Chenay B",
+    "boundingBox": [ 444, 396, 600, 393, 601, 415, 445, 418 ]
+  },
+  {
+    "input": 100,
+    "text": "Table: Table 2",
+    "boundingBox": [ 468, 419, 603, 417, 603, 438, 468, 440 ]
+  },
+  {
+    "input": 100,
+    "text": "Date: 7/18/19, 5:47 PM",
+    "boundingBox": [ 390, 445, 604, 441, 605, 462, 390, 467 ]
+  },
+  {
+    "input": 100,
+    "text": "Margarita",
+    "label": 3,
+    "boundingBox": [ 186, 500, 286, 496, 287, 518, 187, 522 ]
+  },
+  {
+    "input": 100,
+    "text": "$6.00",
+    "label": 4,
+    "boundingBox": [ 554, 489, 605, 487, 605, 506, 555, 509 ]
+  },
+  {
+    "input": 100,
+    "text": "Add Tequila",
+    "label": 3,
+    "boundingBox": [ 224, 522, 335, 519, 335, 542, 224, 544 ]
+  },
+  {
+    "input": 100,
+    "text": "+$4.00",
+    "label": 4,
+    "boundingBox": [ 546, 515, 605, 512, 606, 531, 547, 534 ]
+  },
+  {
+    "input": 100,
+    "text": "Strawberry Daiquiri",
+    "label": 3,
+    "boundingBox": [ 191, 549, 383, 542, 384, 564, 191, 571 ]
+  },
+  {
+    "input": 100,
+    "text": "$6.00",
+    "label": 4,
+    "boundingBox": [ 556, 538, 606, 535, 607, 555, 557, 558 ]
+  },
+  {
+    "input": 100,
+    "text": "Add Vodca",
+    "label": 3,
+    "boundingBox": [ 223, 573, 317, 570, 317, 591, 224, 595 ]
+  },
+  {
+    "input": 100,
+    "text": "+$4.00",
+    "label": 4,
+    "boundingBox": [ 550, 563, 608, 559, 609, 579, 551, 583 ]
+  },
+  {
+    "input": 100,
+    "text": "Snow Combo",
+    "label": 3,
+    "boundingBox": [ 191, 599, 300, 594, 301, 617, 191, 621 ]
+  },
+  {
+    "input": 100,
+    "text": "$54.00",
+    "label": 4,
+    "boundingBox": [ 549, 586, 611, 583, 612, 603, 550, 607 ]
+  },
+  {
+    "input": 100,
+    "text": "Kick in Sauce",
+    "label": 3,
+    "boundingBox": [ 223, 623, 349, 618, 350, 639, 224, 645 ]
+  },
+  {
+    "input": 100,
+    "text": "+$0.00",
+    "label": 4,
+    "boundingBox": [ 553, 611, 612, 607, 612, 627, 554, 631 ]
+  },
+  {
+    "input": 100,
+    "text": "Mild",
+    "label": 3,
+    "boundingBox": [ 222, 649, 272, 646, 272, 667, 223, 669 ]
+  },
+  {
+    "input": 100,
+    "text": "+$0.00",
+    "label": 4,
+    "boundingBox": [ 553, 636, 612, 632, 613, 652, 554, 656 ]
+  },
+  {
+    "input": 100,
+    "text": "Subtotal :",
+    "label": 5,
+    "boundingBox": [ 195, 701, 289, 696, 290, 719, 196, 723 ]
+  },
+  {
+    "input": 100,
+    "text": "$74.00",
+    "label": 6,
+    "boundingBox": [ 556, 684, 616, 680, 617, 701, 557, 705 ]
+  },
+  {
+    "input": 100,
+    "text": "Total Tax:",
+    "label": 7,
+    "boundingBox": [ 196, 726, 301, 722, 302, 743, 197, 748 ]
+  },
+  {
+    "input": 100,
+    "text": "$3.49",
+    "label": 8,
+    "boundingBox": [ 565, 708, 618, 705, 619, 725, 566, 728 ]
+  },
+  {
+    "input": 100,
+    "text": "Total :",
+    "label": 9,
+    "boundingBox": [ 199, 777, 261, 776, 261, 796, 199, 798 ]
+  },
+  {
+    "input": 100,
+    "text": "$77.49",
+    "label": 10,
+    "boundingBox": [ 560, 758, 622, 754, 624, 774, 561, 780 ]
+  },
+  {
+    "input": 100,
+    "text": "Receipt Total :",
+    "label": 3,
+    "boundingBox": [ 197, 854, 344, 847, 346, 870, 198, 877 ]
+  },
+  {
+    "input": 100,
+    "text": "$38.75",
+    "label": 4,
+    "boundingBox": [ 563, 833, 624, 829, 626, 850, 565, 854 ]
+  },
+  {
+    "input": 100,
+    "text": "Suggested Gratuity",
+    "boundingBox": [ 326, 950, 510, 936, 512, 962, 328, 976 ]
+  },
+  {
+    "input": 100,
+    "text": "Tip",
+    "boundingBox": [ 472, 967, 502, 966, 502, 986, 473, 988 ]
+  },
+  {
+    "input": 100,
+    "text": "Total",
+    "boundingBox": [ 579, 955, 627, 954, 628, 975, 580, 977 ]
+  }
+]

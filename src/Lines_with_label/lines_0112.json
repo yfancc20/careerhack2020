@@ -1,0 +1,172 @@
+[
+  {
+    "input": 112,
+    "text": "POP TATES KORUM HALL",
+    "label": 0,
+    "boundingBox": [ 158, 64, 288, 68, 288, 82, 158, 77 ]
+  },
+  {
+    "input": 112,
+    "text": "ANDHERI WEST",
+    "label": 1,
+    "boundingBox": [ 182, 81, 263, 83, 263, 96, 182, 94 ]
+  },
+  {
+    "input": 112,
+    "text": "KORUM MALL, 4TH FLOOR",
+    "label": 1,
+    "boundingBox": [ 157, 95, 297, 98, 296, 112, 157, 109 ]
+  },
+  {
+    "input": 112,
+    "text": "HANGAL PANDEY RD, OFF EASTERN EXPRESS",
+    "boundingBox": [ 105, 107, 348, 111, 348, 129, 104, 124 ]
+  },
+  {
+    "input": 112,
+    "text": "THANE (W) 400606",
+    "boundingBox": [ 169, 128, 277, 129, 277, 143, 169, 142 ]
+  },
+  {
+    "input": 112,
+    "text": "TEL : 022 66737988",
+    "label": 2,
+    "boundingBox": [ 165, 144, 284, 145, 284, 159, 165, 157 ]
+  },
+  {
+    "input": 112,
+    "text": "ORDER NO : KO0024585",
+    "boundingBox": [ 90, 155, 226, 161, 225, 175, 90, 169 ]
+  },
+  {
+    "input": 112,
+    "text": "BILL NO",
+    "boundingBox": [ 87, 184, 139, 187, 138, 202, 87, 199 ]
+  },
+  {
+    "input": 112,
+    "text": "DATE AND TIME PAX TABLE",
+    "boundingBox": [ 172, 191, 352, 192, 352, 207, 172, 206 ]
+  },
+  {
+    "input": 112,
+    "text": "BOO006266 09/12/2012 6:14 PM 6 52",
+    "boundingBox": [ 86, 202, 333, 210, 333, 226, 86, 218 ]
+  },
+  {
+    "input": 112,
+    "text": "CASHIER :CASHIER",
+    "boundingBox": [ 85, 219, 199, 225, 198, 239, 84, 232 ]
+  },
+  {
+    "input": 112,
+    "text": "WAITER :WAITER",
+    "boundingBox": [ 84, 236, 186, 241, 185, 255, 83, 249 ]
+  },
+  {
+    "input": 112,
+    "text": "Qty Menu Item",
+    "label": 3,
+    "boundingBox": [ 111, 273, 206, 276, 205, 291, 111, 287 ]
+  },
+  {
+    "input": 112,
+    "text": "Amount",
+    "label": 4,
+    "boundingBox": [ 305, 277, 350, 276, 350, 289, 305, 289 ]
+  },
+  {
+    "input": 112,
+    "text": "2 FRENCH FRIES",
+    "label": 3,
+    "boundingBox": [ 123, 309, 226, 311, 225, 325, 123, 323 ]
+  },
+  {
+    "input": 112,
+    "text": "190.00",
+    "label": 4,
+    "boundingBox": [ 308, 310, 351, 309, 352, 322, 308, 324 ]
+  },
+  {
+    "input": 112,
+    "text": "1 OPEN FOOD",
+    "label": 3,
+    "boundingBox": [ 122, 327, 202, 328, 202, 342, 121, 341 ]
+  },
+  {
+    "input": 112,
+    "text": "60.00",
+    "label": 4,
+    "boundingBox": [ 315, 328, 352, 326, 352, 339, 316, 341 ]
+  },
+  {
+    "input": 112,
+    "text": "1.00 MANESH SAUS",
+    "label": 3,
+    "boundingBox": [ 99, 344, 231, 346, 231, 361, 99, 359 ]
+  },
+  {
+    "input": 112,
+    "text": "60.00",
+    "label": 4,
+    "boundingBox": [ 316, 345, 353, 344, 353, 358, 316, 359 ]
+  },
+  {
+    "input": 112,
+    "text": "1 PANEER TIKKA",
+    "label": 3,
+    "boundingBox": [ 119, 363, 224, 365, 224, 380, 119, 378 ]
+  },
+  {
+    "input": 112,
+    "text": "248.00",
+    "label": 4,
+    "boundingBox": [ 308, 364, 356, 363, 356, 377, 308, 378 ]
+  },
+  {
+    "input": 112,
+    "text": "Total",
+    "label": 3,
+    "boundingBox": [ 126, 402, 164, 402, 163, 417, 126, 417 ]
+  },
+  {
+    "input": 112,
+    "text": "498.00",
+    "label": 4,
+    "boundingBox": [ 312, 401, 358, 400, 358, 414, 312, 415 ]
+  },
+  {
+    "input": 112,
+    "text": "SERVICE TAX @ 4.94%",
+    "label": 3,
+    "boundingBox": [ 124, 442, 268, 441, 268, 456, 124, 458 ]
+  },
+  {
+    "input": 112,
+    "text": "24.60",
+    "label": 4,
+    "boundingBox": [ 320, 440, 361, 440, 361, 455, 320, 455 ]
+  },
+  {
+    "input": 112,
+    "text": "Grand Total",
+    "label": 3,
+    "boundingBox": [ 121, 483, 208, 483, 208, 499, 121, 500 ]
+  },
+  {
+    "input": 112,
+    "text": "523.00",
+    "label": 4,
+    "boundingBox": [ 317, 482, 365, 482, 365, 497, 317, 497 ]
+  },
+  {
+    "input": 112,
+    "text": "VAT NO : 27840289613V",
+    "boundingBox": [ 62, 547, 231, 548, 231, 565, 62, 564 ]
+  },
+  {
+    "input": 112,
+    "text": "$1*$THANK YOU & VISIT AGAIN $184",
+    "boundingBox": [ 60, 570, 319, 570, 319, 587, 60, 587 ]
+  }
+]

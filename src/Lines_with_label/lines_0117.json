@@ -1,0 +1,148 @@
+[
+  {
+    "input": 117,
+    "text": "BK SOUL FOOD & CATERING",
+    "label": 0,
+    "boundingBox": [ 253, 92, 447, 60, 453, 93, 259, 125 ]
+  },
+  {
+    "input": 117,
+    "text": "11318 YONKERS AVE",
+    "label": 1,
+    "boundingBox": [ 279, 111, 431, 93, 435, 120, 283, 139 ]
+  },
+  {
+    "input": 117,
+    "text": "YONKERS, NY 14704",
+    "label": 1,
+    "boundingBox": [ 279, 131, 436, 119, 438, 142, 281, 154 ]
+  },
+  {
+    "input": 117,
+    "text": "914-237-5083",
+    "label": 2,
+    "boundingBox": [ 297, 150, 421, 143, 422, 165, 298, 171 ]
+  },
+  {
+    "input": 117,
+    "text": "June 23, 2019 at 2:33 PM",
+    "boundingBox": [ 245, 191, 479, 179, 480, 202, 247, 214 ]
+  },
+  {
+    "input": 117,
+    "text": "ORDER # 1019",
+    "boundingBox": [ 246, 255, 481, 246, 482, 283, 248, 292 ]
+  },
+  {
+    "input": 117,
+    "text": "Admin",
+    "boundingBox": [ 336, 319, 390, 319, 391, 337, 336, 337 ]
+  },
+  {
+    "input": 117,
+    "text": "WINGS (5)",
+    "label": 3,
+    "boundingBox": [ 129, 394, 212, 390, 213, 410, 130, 414 ]
+  },
+  {
+    "input": 117,
+    "text": "12, 50",
+    "label": 4,
+    "boundingBox": [ 544, 378, 599, 376, 599, 397, 544, 398 ]
+  },
+  {
+    "input": 117,
+    "text": "MAC & CHEESE",
+    "label": 3,
+    "boundingBox": [ 143, 416, 265, 410, 266, 430, 144, 436 ]
+  },
+  {
+    "input": 117,
+    "text": "YAMS",
+    "label": 3,
+    "boundingBox": [ 145, 438, 187, 438, 187, 457, 145, 457 ]
+  },
+  {
+    "input": 117,
+    "text": "SIDE (SM) x3",
+    "label": 3,
+    "boundingBox": [ 120, 460, 247, 458, 247, 480, 120, 482 ]
+  },
+  {
+    "input": 117,
+    "text": "12.00",
+    "label": 4,
+    "boundingBox": [ 548, 451, 601, 448, 602, 470, 548, 471 ]
+  },
+  {
+    "input": 117,
+    "text": "YAMS",
+    "label": 3,
+    "boundingBox": [ 139, 484, 187, 484, 187, 503, 139, 502 ]
+  },
+  {
+    "input": 117,
+    "text": "MAC & CHEESE",
+    "label": 3,
+    "boundingBox": [ 139, 506, 265, 504, 265, 526, 139, 527 ]
+  },
+  {
+    "input": 117,
+    "text": "COLLARD GREENS",
+    "label": 3,
+    "boundingBox": [ 137, 530, 285, 528, 286, 549, 138, 551 ]
+  },
+  {
+    "input": 117,
+    "text": "Subtotal",
+    "label": 5,
+    "boundingBox": [ 207, 606, 292, 605, 292, 627, 207, 628 ]
+  },
+  {
+    "input": 117,
+    "text": "24,50",
+    "label": 6,
+    "boundingBox": [ 563, 601, 620, 601, 620, 622, 563, 622 ]
+  },
+  {
+    "input": 117,
+    "text": "Tax",
+    "label": 7,
+    "boundingBox": [ 208, 633, 240, 633, 240, 653, 208, 654 ]
+  },
+  {
+    "input": 117,
+    "text": "2. 17",
+    "label": 8,
+    "boundingBox": [ 574, 627, 620, 626, 620, 648, 574, 649 ]
+  },
+  {
+    "input": 117,
+    "text": "Discount",
+    "label": 3,
+    "boundingBox": [ 206, 658, 293, 656, 294, 680, 207, 681 ]
+  },
+  {
+    "input": 117,
+    "text": "0.00",
+    "label": 4,
+    "boundingBox": [ 576, 652, 622, 653, 622, 674, 577, 673 ]
+  },
+  {
+    "input": 117,
+    "text": "Total",
+    "label": 9,
+    "boundingBox": [ 207, 685, 258, 685, 258, 706, 207, 706 ]
+  },
+  {
+    "input": 117,
+    "text": "26. 67",
+    "label": 10,
+    "boundingBox": [ 568, 679, 623, 679, 623, 700, 567, 701 ]
+  },
+  {
+    "input": 117,
+    "text": "0011477215613",
+    "boundingBox": [ 296, 947, 447, 942, 447, 966, 296, 970 ]
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "input": 97,
+    "text": "Go Mongo BBQ",
+    "label": 0,
+    "boundingBox": [ 101, 34, 166, 33, 166, 43, 101, 44 ]
+  },
+  {
+    "input": 97,
+    "text": "6661 Stanford Ranch Rd.",
+    "label": 1,
+    "boundingBox": [ 75, 49, 196, 45, 196, 55, 76, 59 ]
+  },
+  {
+    "input": 97,
+    "text": "Rocklin, CA 95677",
+    "label": 1,
+    "boundingBox": [ 86, 62, 182, 59, 182, 70, 86, 73 ]
+  },
+  {
+    "input": 97,
+    "text": "916-632-8828",
+    "label": 2,
+    "boundingBox": [ 101, 76, 168, 74, 168, 84, 102, 86 ]
+  },
+  {
+    "input": 97,
+    "text": "Receipt :",
+    "label": 3,
+    "boundingBox": [ 23, 106, 67, 106, 67, 117, 23, 118 ]
+  },
+  {
+    "input": 97,
+    "text": "mongo-042441",
+    "label": 4,
+    "boundingBox": [ 102, 104, 168, 102, 168, 113, 102, 115 ]
+  },
+  {
+    "input": 97,
+    "text": "Date:",
+    "label": 3,
+    "boundingBox": [ 23, 122, 52, 122, 52, 131, 24, 131 ]
+  },
+  {
+    "input": 97,
+    "text": "Jan 28, 2018 5:48:07 PM",
+    "label": 4,
+    "boundingBox": [ 103, 118, 227, 115, 228, 126, 103, 129 ]
+  },
+  {
+    "input": 97,
+    "text": "Served by :",
+    "label": 3,
+    "boundingBox": [ 24, 135, 78, 135, 78, 146, 24, 146 ]
+  },
+  {
+    "input": 97,
+    "text": "Manager",
+    "label": 4,
+    "boundingBox": [ 102, 134, 141, 134, 141, 144, 102, 144 ]
+  },
+  {
+    "input": 97,
+    "text": "Item",
+    "label": 3,
+    "boundingBox": [ 24, 166, 47, 165, 47, 175, 24, 175 ]
+  },
+  {
+    "input": 97,
+    "text": "Price",
+    "label": 3,
+    "boundingBox": [ 130, 163, 160, 163, 160, 173, 130, 173 ]
+  },
+  {
+    "input": 97,
+    "text": "Qty",
+    "label": 3,
+    "boundingBox": [ 178, 162, 196, 162, 196, 173, 178, 173 ]
+  },
+  {
+    "input": 97,
+    "text": "Value",
+    "label": 4,
+    "boundingBox": [ 220, 160, 251, 160, 251, 170, 220, 170 ]
+  },
+  {
+    "input": 97,
+    "text": "BBQ Dinner",
+    "label": 3,
+    "boundingBox": [ 23, 196, 79, 194, 80, 204, 23, 205 ]
+  },
+  {
+    "input": 97,
+    "text": "$10.99",
+    "label": 4,
+    "boundingBox": [ 127, 191, 159, 191, 159, 202, 127, 202 ]
+  },
+  {
+    "input": 97,
+    "text": "x4",
+    "label": 4,
+    "boundingBox": [ 185, 193, 196, 192, 197, 201, 185, 202 ]
+  },
+  {
+    "input": 97,
+    "text": "$47.15",
+    "label": 4,
+    "boundingBox": [ 218, 189, 251, 188, 252, 199, 218, 200 ]
+  },
+  {
+    "input": 97,
+    "text": "beverage",
+    "label": 3,
+    "boundingBox": [ 22, 211, 68, 211, 68, 220, 22, 220 ]
+  },
+  {
+    "input": 97,
+    "text": "$2.29",
+    "label": 4,
+    "boundingBox": [ 132, 207, 159, 206, 159, 216, 132, 218 ]
+  },
+  {
+    "input": 97,
+    "text": "X2",
+    "label": 4,
+    "boundingBox": [ 186, 206, 197, 205, 197, 215, 185, 215 ]
+  },
+  {
+    "input": 97,
+    "text": "$4.91",
+    "label": 4,
+    "boundingBox": [ 224, 204, 252, 203, 252, 214, 225, 215 ]
+  },
+  {
+    "input": 97,
+    "text": "Items count : 6",
+    "boundingBox": [ 23, 240, 101, 238, 101, 249, 24, 251 ]
+  },
+  {
+    "input": 97,
+    "text": "Subtotal :",
+    "label": 5,
+    "boundingBox": [ 23, 270, 74, 269, 74, 281, 23, 282 ]
+  },
+  {
+    "input": 97,
+    "text": "$48.54",
+    "label": 6,
+    "boundingBox": [ 221, 265, 255, 264, 255, 276, 221, 277 ]
+  },
+  {
+    "input": 97,
+    "text": "CA Tax 7.25%:",
+    "label": 7,
+    "boundingBox": [ 23, 286, 95, 284, 95, 296, 23, 297 ]
+  },
+  {
+    "input": 97,
+    "text": "$3.52",
+    "label": 8,
+    "boundingBox": [ 227, 280, 257, 279, 257, 291, 228, 292 ]
+  },
+  {
+    "input": 97,
+    "text": "Total",
+    "label": 9,
+    "boundingBox": [ 22, 311, 51, 310, 51, 328, 22, 328 ]
+  },
+  {
+    "input": 97,
+    "text": "$52.06",
+    "label": 10,
+    "boundingBox": [ 221, 304, 260, 302, 261, 325, 222, 327 ]
+  },
+  {
+    "input": 97,
+    "text": "Cash",
+    "label": 3,
+    "boundingBox": [ 24, 349, 47, 349, 47, 359, 23, 359 ]
+  },
+  {
+    "input": 97,
+    "text": "Tendered:",
+    "label": 3,
+    "boundingBox": [ 23, 364, 73, 364, 74, 375, 24, 376 ]
+  },
+  {
+    "input": 97,
+    "text": "$52.06",
+    "label": 4,
+    "boundingBox": [ 225, 359, 260, 358, 261, 370, 225, 371 ]
+  },
+  {
+    "input": 97,
+    "text": "Change :",
+    "label": 3,
+    "boundingBox": [ 23, 380, 64, 380, 64, 391, 24, 391 ]
+  },
+  {
+    "input": 97,
+    "text": "$0.00",
+    "label": 4,
+    "boundingBox": [ 231, 375, 259, 374, 260, 384, 231, 386 ]
+  }
+]

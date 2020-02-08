@@ -252,6 +252,7 @@
   {
     "input": 0,
     "text": "soit 1 w/Tax:",
+    "label": 3,
     "boundingBox": [
       62,
       226,
@@ -266,6 +267,7 @@
   {
     "input": 0,
     "text": "$10.81",
+    "label": 4,
     "boundingBox": [
       203,
       205,
@@ -280,6 +282,7 @@
   {
     "input": 0,
     "text": "Ant Due:",
+    "label": 3,
     "label": 9,
     "boundingBox": [
       72,
@@ -295,6 +298,7 @@
   {
     "input": 0,
     "text": "$10.81",
+    "label": 4,
     "label": 10,
     "boundingBox": [
       180,

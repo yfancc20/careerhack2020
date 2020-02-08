@@ -1,0 +1,823 @@
+[
+  {
+    "input": 12,
+    "text": "Again.",
+    "boundingBox": [
+      646,
+      2,
+      726,
+      15,
+      722,
+      37,
+      642,
+      24
+    ]
+  },
+  {
+    "input": 12,
+    "text": "h",
+    "boundingBox": [
+      726,
+      0,
+      747,
+      2,
+      744,
+      19,
+      723,
+      16
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Buca di Beppo",
+    "label": 0,
+    "boundingBox": [
+      277,
+      103,
+      394,
+      102,
+      395,
+      121,
+      278,
+      122
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Store#0511",
+    "boundingBox": [
+      296,
+      124,
+      389,
+      122,
+      389,
+      141,
+      297,
+      143
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Universal City, CA 91608",
+    "label": 1,
+    "boundingBox": [
+      235,
+      145,
+      447,
+      141,
+      447,
+      163,
+      235,
+      166
+    ]
+  },
+  {
+    "input": 12,
+    "text": "818.509.9463",
+    "label": 2,
+    "boundingBox": [
+      286,
+      166,
+      395,
+      165,
+      396,
+      185,
+      286,
+      187
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Server : Molly",
+    "boundingBox": [
+      156,
+      212,
+      274,
+      211,
+      274,
+      231,
+      156,
+      232
+    ]
+  },
+  {
+    "input": 12,
+    "text": "07/15/2016",
+    "boundingBox": [
+      434,
+      207,
+      528,
+      205,
+      528,
+      227,
+      434,
+      229
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Table 53/1",
+    "boundingBox": [
+      159,
+      233,
+      249,
+      233,
+      249,
+      253,
+      159,
+      254
+    ]
+  },
+  {
+    "input": 12,
+    "text": "7:57 PM",
+    "boundingBox": [
+      461,
+      230,
+      525,
+      228,
+      526,
+      249,
+      462,
+      251
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Guests: 3",
+    "boundingBox": [
+      158,
+      256,
+      242,
+      256,
+      242,
+      275,
+      158,
+      274
+    ]
+  },
+  {
+    "input": 12,
+    "text": "40020",
+    "boundingBox": [
+      479,
+      253,
+      526,
+      252,
+      525,
+      270,
+      479,
+      270
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Order Type: Dining",
+    "boundingBox": [
+      159,
+      276,
+      327,
+      276,
+      327,
+      296,
+      159,
+      297
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Reason #66",
+    "boundingBox": [
+      26,
+      291,
+      121,
+      309,
+      116,
+      332,
+      21,
+      314
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Iced Tea",
+    "label": 3,
+    "boundingBox": [
+      160,
+      361,
+      235,
+      362,
+      235,
+      382,
+      159,
+      380
+    ]
+  },
+  {
+    "input": 12,
+    "text": "3.29",
+    "label": 4,
+    "boundingBox": [
+      487,
+      360,
+      522,
+      359,
+      521,
+      378,
+      487,
+      379
+    ]
+  },
+  {
+    "input": 12,
+    "text": "There's a",
+    "boundingBox": [
+      567,
+      342,
+      748,
+      337,
+      749,
+      377,
+      568,
+      382
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Sm Garlic Bread",
+    "label": 3,
+    "boundingBox": [
+      160,
+      382,
+      293,
+      382,
+      293,
+      402,
+      160,
+      402
+    ]
+  },
+  {
+    "input": 12,
+    "text": "9.99",
+    "label": 4,
+    "boundingBox": [
+      485,
+      381,
+      523,
+      381,
+      523,
+      399,
+      485,
+      399
+    ]
+  },
+  {
+    "input": 12,
+    "text": "eason #23",
+    "boundingBox": [
+      4,
+      401,
+      89,
+      417,
+      84,
+      438,
+      0,
+      421
+    ]
+  },
+  {
+    "input": 12,
+    "text": "9oz Buca Chianti (2 @14.00)",
+    "label": 3,
+    "boundingBox": [
+      160,
+      403,
+      391,
+      402,
+      391,
+      422,
+      160,
+      423
+    ]
+  },
+  {
+    "input": 12,
+    "text": "28.00",
+    "label": 4,
+    "boundingBox": [
+      477,
+      402,
+      528,
+      402,
+      527,
+      420,
+      476,
+      421
+    ]
+  },
+  {
+    "input": 12,
+    "text": "G1 Buca Chianti",
+    "label": 3,
+    "boundingBox": [
+      161,
+      424,
+      291,
+      423,
+      291,
+      443,
+      161,
+      444
+    ]
+  },
+  {
+    "input": 12,
+    "text": "10.00",
+    "label": 4,
+    "boundingBox": [
+      481,
+      423,
+      522,
+      423,
+      522,
+      441,
+      481,
+      442
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Sm Chop Antipasto Salad",
+    "label": 3,
+    "boundingBox": [
+      161,
+      445,
+      363,
+      444,
+      363,
+      463,
+      161,
+      463
+    ]
+  },
+  {
+    "input": 12,
+    "text": "18.99",
+    "label": 4,
+    "boundingBox": [
+      480,
+      443,
+      522,
+      444,
+      522,
+      462,
+      479,
+      461
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Lg Supremo Pizza",
+    "label": 3,
+    "boundingBox": [
+      162,
+      467,
+      301,
+      465,
+      301,
+      485,
+      162,
+      486
+    ]
+  },
+  {
+    "input": 12,
+    "text": "29.99",
+    "label": 4,
+    "boundingBox": [
+      479,
+      465,
+      526,
+      465,
+      525,
+      483,
+      478,
+      484
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Pele",
+    "boundingBox": [
+      541,
+      378,
+      749,
+      419,
+      744,
+      570,
+      521,
+      542
+    ]
+  },
+  {
+    "input": 12,
+    "text": "We value your opinion.",
+    "boundingBox": [
+      159,
+      549,
+      350,
+      551,
+      349,
+      570,
+      159,
+      568
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Visit bucafeedback.com to complete",
+    "boundingBox": [
+      157,
+      569,
+      457,
+      570,
+      457,
+      590,
+      157,
+      589
+    ]
+  },
+  {
+    "input": 12,
+    "text": "a brief survey and enter our weekly",
+    "boundingBox": [
+      157,
+      591,
+      465,
+      592,
+      465,
+      613,
+      157,
+      612
+    ]
+  },
+  {
+    "input": 12,
+    "text": "with",
+    "boundingBox": [
+      621,
+      556,
+      749,
+      583,
+      736,
+      628,
+      610,
+      601
+    ]
+  },
+  {
+    "input": 12,
+    "text": "drawing for a chance to win a",
+    "boundingBox": [
+      156,
+      612,
+      413,
+      613,
+      413,
+      634,
+      156,
+      632
+    ]
+  },
+  {
+    "input": 12,
+    "text": "$100 digital promotional certificate.",
+    "boundingBox": [
+      155,
+      632,
+      478,
+      634,
+      478,
+      656,
+      155,
+      655
+    ]
+  },
+  {
+    "input": 12,
+    "text": "See bucadibeppo. com/buca-feedback-rules",
+    "boundingBox": [
+      154,
+      655,
+      501,
+      655,
+      501,
+      676,
+      154,
+      676
+    ]
+  },
+  {
+    "input": 12,
+    "text": "for Official Rules and restrictions.",
+    "boundingBox": [
+      154,
+      676,
+      473,
+      678,
+      473,
+      698,
+      154,
+      697
+    ]
+  },
+  {
+    "input": 12,
+    "text": "r the",
+    "boundingBox": [
+      548,
+      661,
+      627,
+      677,
+      621,
+      705,
+      542,
+      689
+    ]
+  },
+  {
+    "input": 12,
+    "text": "u didn't drc",
+    "boundingBox": [
+      4,
+      702,
+      133,
+      732,
+      128,
+      754,
+      0,
+      724
+    ]
+  },
+  {
+    "input": 12,
+    "text": "091 257 000 051 115",
+    "boundingBox": [
+      156,
+      722,
+      335,
+      722,
+      335,
+      743,
+      156,
+      742
+    ]
+  },
+  {
+    "input": 12,
+    "text": "day Song",
+    "boundingBox": [
+      553,
+      697,
+      723,
+      740,
+      714,
+      774,
+      545,
+      731
+    ]
+  },
+  {
+    "input": 12,
+    "text": "of school",
+    "boundingBox": [
+      24,
+      735,
+      128,
+      758,
+      123,
+      779,
+      19,
+      756
+    ]
+  },
+  {
+    "input": 12,
+    "text": "! Pasta!",
+    "boundingBox": [
+      551,
+      743,
+      634,
+      762,
+      629,
+      784,
+      546,
+      765
+    ]
+  },
+  {
+    "input": 12,
+    "text": "esh for you!",
+    "boundingBox": [
+      555,
+      783,
+      686,
+      814,
+      681,
+      835,
+      550,
+      803
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Subtotal",
+    "label": 5,
+    "boundingBox": [
+      140,
+      839,
+      215,
+      841,
+      215,
+      862,
+      140,
+      860
+    ]
+  },
+  {
+    "input": 12,
+    "text": "100.26",
+    "label": 6,
+    "boundingBox": [
+      479,
+      840,
+      534,
+      841,
+      533,
+      863,
+      479,
+      863
+    ]
+  },
+  {
+    "input": 12,
+    "text": "-i-nar-a...",
+    "boundingBox": [
+      557,
+      820,
+      664,
+      849,
+      659,
+      868,
+      552,
+      839
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Tax",
+    "label": 7,
+    "boundingBox": [
+      139,
+      866,
+      169,
+      867,
+      168,
+      886,
+      138,
+      885
+    ]
+  },
+  {
+    "input": 12,
+    "text": "9.02",
+    "label": 8,
+    "boundingBox": [
+      495,
+      867,
+      536,
+      867,
+      536,
+      887,
+      495,
+      888
+    ]
+  },
+  {
+    "input": 12,
+    "text": "too!",
+    "boundingBox": [
+      560,
+      863,
+      607,
+      871,
+      604,
+      890,
+      558,
+      882
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Total",
+    "label": 9,
+    "boundingBox": [
+      135,
+      914,
+      184,
+      915,
+      183,
+      936,
+      135,
+      935
+    ]
+  },
+  {
+    "input": 12,
+    "text": "109.28",
+    "label": 10,
+    "boundingBox": [
+      480,
+      917,
+      537,
+      917,
+      537,
+      938,
+      480,
+      937
+    ]
+  },
+  {
+    "input": 12,
+    "text": "ucaaa...",
+    "boundingBox": [
+      562,
+      902,
+      646,
+      924,
+      642,
+      940,
+      558,
+      918
+    ]
+  },
+  {
+    "input": 12,
+    "text": "say",
+    "boundingBox": [
+      567,
+      944,
+      604,
+      953,
+      600,
+      969,
+      564,
+      960
+    ]
+  },
+  {
+    "input": 12,
+    "text": "Balance Due",
+    "label": 3,
+    "boundingBox": [
+      132,
+      963,
+      347,
+      965,
+      347,
+      989,
+      131,
+      987
+    ]
+  },
+  {
+    "input": 12,
+    "text": "109 .28",
+    "label": 4,
+    "boundingBox": [
+      426,
+      965,
+      538,
+      965,
+      538,
+      989,
+      426,
+      989
+    ]
+  },
+  {
+    "input": 12,
+    "text": "day",
+    "boundingBox": [
+      557,
+      976,
+      605,
+      984,
+      604,
+      999,
+      555,
+      995
+    ]
+  }
+]

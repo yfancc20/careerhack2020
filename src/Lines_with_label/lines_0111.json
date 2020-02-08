@@ -1,0 +1,189 @@
+[
+  {
+    "input": 111,
+    "text": "MITASU JAPANESE RESTAURANT SDN BHD",
+    "label": 0,
+    "boundingBox": [ 112, 16, 378, 12, 378, 29, 112, 32 ]
+  },
+  {
+    "input": 111,
+    "text": "B-01, CENTRAL PLAZA,",
+    "label": 1,
+    "boundingBox": [ 166, 33, 314, 33, 314, 51, 166, 51 ]
+  },
+  {
+    "input": 111,
+    "text": "34, JALAN SULTAN ISMAIL,",
+    "label": 1,
+    "boundingBox": [ 150, 54, 330, 53, 330, 70, 150, 71 ]
+  },
+  {
+    "input": 111,
+    "text": "50250 KUALA LUMPUR",
+    "label": 1,
+    "boundingBox": [ 175, 74, 316, 73, 317, 91, 175, 92 ]
+  },
+  {
+    "input": 111,
+    "text": "TEL 03-2110 2833",
+    "label": 2,
+    "boundingBox": [ 183, 96, 309, 93, 309, 109, 184, 111 ]
+  },
+  {
+    "input": 111,
+    "text": "(GST Reg. No : 001774428160)",
+    "boundingBox": [ 137, 115, 354, 107, 354, 122, 137, 129 ]
+  },
+  {
+    "input": 111,
+    "text": "Tax Invoice",
+    "boundingBox": [ 151, 130, 323, 125, 323, 139, 152, 144 ]
+  },
+  {
+    "input": 111,
+    "text": "Table D2",
+    "boundingBox": [ 87, 146, 213, 143, 213, 159, 87, 162 ]
+  },
+  {
+    "input": 111,
+    "text": "Bill# : V001-201060",
+    "boundingBox": [ 84, 164, 224, 160, 225, 176, 84, 180 ]
+  },
+  {
+    "input": 111,
+    "text": "Odr No: 199535",
+    "boundingBox": [ 291, 158, 406, 155, 407, 171, 292, 174 ]
+  },
+  {
+    "input": 111,
+    "text": "Date : 29-06-2018 19:59:15",
+    "boundingBox": [ 83, 183, 308, 177, 309, 193, 83, 199 ]
+  },
+  {
+    "input": 111,
+    "text": "Cashier : AARON",
+    "boundingBox": [ 82, 201, 199, 199, 199, 217, 83, 219 ]
+  },
+  {
+    "input": 111,
+    "text": "Pax(s) : 11",
+    "boundingBox": [ 314, 196, 408, 194, 408, 211, 315, 214 ]
+  },
+  {
+    "input": 111,
+    "text": "Qty Description",
+    "boundingBox": [ 83, 244, 223, 242, 223, 260, 83, 262 ]
+  },
+  {
+    "input": 111,
+    "text": "Total TAX",
+    "boundingBox": [ 335, 238, 410, 236, 410, 254, 335, 256 ]
+  },
+  {
+    "input": 111,
+    "text": "11 (28.01) Adult",
+    "label": 3,
+    "boundingBox": [ 86, 287, 216, 284, 216, 303, 86, 305 ]
+  },
+  {
+    "input": 111,
+    "text": "D 709.50 SR",
+    "label": 4,
+    "boundingBox": [ 302, 282, 411, 279, 412, 297, 302, 300 ]
+  },
+  {
+    "input": 111,
+    "text": "Subtotal :",
+    "label": 5,
+    "boundingBox": [ 86, 329, 162, 327, 162, 344, 87, 345 ]
+  },
+  {
+    "input": 111,
+    "text": "709.50",
+    "label": 6,
+    "boundingBox": [ 360, 321, 409, 320, 410, 336, 360, 338 ]
+  },
+  {
+    "input": 111,
+    "text": "Serv. Charge (10%) :",
+    "label": 3,
+    "boundingBox": [ 87, 348, 241, 344, 242, 361, 88, 365 ]
+  },
+  {
+    "input": 111,
+    "text": "70.95",
+    "label": 4,
+    "boundingBox": [ 368, 341, 409, 340, 409, 354, 368, 356 ]
+  },
+  {
+    "input": 111,
+    "text": "GST Payable (0%) :",
+    "label": 3,
+    "boundingBox": [ 85, 367, 226, 364, 226, 381, 85, 385 ]
+  },
+  {
+    "input": 111,
+    "text": "0.00",
+    "label": 4,
+    "boundingBox": [ 376, 358, 410, 357, 410, 373, 376, 375 ]
+  },
+  {
+    "input": 111,
+    "text": "Total :",
+    "label": 3,
+    "boundingBox": [ 85, 387, 134, 387, 134, 403, 85, 404 ]
+  },
+  {
+    "input": 111,
+    "text": "780.45",
+    "label": 4,
+    "boundingBox": [ 362, 378, 414, 377, 415, 394, 363, 394 ]
+  },
+  {
+    "input": 111,
+    "text": "TOTAL :",
+    "label": 3,
+    "boundingBox": [ 83, 407, 179, 405, 180, 423, 83, 426 ]
+  },
+  {
+    "input": 111,
+    "text": "780 . 45",
+    "label": 4,
+    "boundingBox": [ 315, 399, 416, 397, 416, 415, 316, 418 ]
+  },
+  {
+    "input": 111,
+    "text": "Closed: 001",
+    "boundingBox": [ 79, 452, 173, 448, 173, 466, 80, 470 ]
+  },
+  {
+    "input": 111,
+    "text": "29-06-2018 21:52:03",
+    "boundingBox": [ 240, 445, 422, 439, 422, 459, 240, 464 ]
+  },
+  {
+    "input": 111,
+    "text": "Server : AARON",
+    "boundingBox": [ 77, 475, 192, 470, 193, 490, 78, 494 ]
+  },
+  {
+    "input": 111,
+    "text": "VISA",
+    "boundingBox": [ 76, 498, 113, 497, 113, 514, 76, 515 ]
+  },
+  {
+    "input": 111,
+    "text": "780.45",
+    "boundingBox": [ 372, 487, 426, 485, 427, 504, 372, 505 ]
+  },
+  {
+    "input": 111,
+    "text": "- ************3042",
+    "boundingBox": [ 73, 520, 235, 516, 235, 534, 74, 539 ]
+  },
+  {
+    "input": 111,
+    "text": "- LIM CHAI JA",
+    "boundingBox": [ 72, 544, 191, 541, 191, 561, 72, 563 ]
+  }
+]

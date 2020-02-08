@@ -1,0 +1,137 @@
+[
+  {
+    "input": 124,
+    "text": "Golden Coin",
+    "label": 0,
+    "boundingBox": [ 472, 62, 627, 57, 628, 94, 473, 100 ]
+  },
+  {
+    "input": 124,
+    "text": "94-450 Ukee St",
+    "label": 1,
+    "boundingBox": [ 458, 100, 651, 93, 652, 119, 459, 127 ]
+  },
+  {
+    "input": 124,
+    "text": "Waipahu, HI 96797",
+    "boundingBox": [ 429, 132, 666, 121, 667, 149, 430, 160 ]
+  },
+  {
+    "input": 124,
+    "text": "(808) 848-0802",
+    "label": 2,
+    "boundingBox": [ 459, 161, 651, 153, 652, 182, 461, 190 ]
+  },
+  {
+    "input": 124,
+    "text": "Server: Charito",
+    "boundingBox": [ 287, 233, 487, 225, 488, 254, 288, 262 ]
+  },
+  {
+    "input": 124,
+    "text": "Station: 1",
+    "boundingBox": [ 693, 218, 750, 212, 750, 240, 694, 246 ]
+  },
+  {
+    "input": 124,
+    "text": "Order #: 6879",
+    "label": 3,
+    "boundingBox": [ 288, 299, 461, 294, 462, 322, 289, 327 ]
+  },
+  {
+    "input": 124,
+    "text": "Take Out",
+    "label": 4,
+    "boundingBox": [ 725, 285, 750, 282, 750, 312, 726, 315 ]
+  },
+  {
+    "input": 124,
+    "text": "in the set and",
+    "boundingBox": [ 750, 329, 750, 328, 750, 339, 750, 340 ]
+  },
+  {
+    "input": 124,
+    "text": "> > SETTLED <",
+    "boundingBox": [ 457, 361, 641, 359, 642, 411, 458, 413 ]
+  },
+  {
+    "input": 124,
+    "text": "1 Pit Lunch 2 Choices",
+    "boundingBox": [ 288, 414, 572, 412, 572, 445, 288, 447 ]
+  },
+  {
+    "input": 124,
+    "text": "9. 79",
+    "boundingBox": [ 750, 412, 750, 411, 750, 439, 750, 439 ]
+  },
+  {
+    "input": 124,
+    "text": "BBQ",
+    "boundingBox": [ 316, 451, 358, 451, 358, 475, 315, 475 ]
+  },
+  {
+    "input": 124,
+    "text": "PINAPAITAN",
+    "boundingBox": [ 317, 482, 453, 483, 453, 508, 317, 507 ]
+  },
+  {
+    "input": 124,
+    "text": "Bar Subtotal :",
+    "label": 5,
+    "boundingBox": [ 296, 544, 463, 545, 463, 570, 296, 569 ]
+  },
+  {
+    "input": 124,
+    "text": "0.00",
+    "label": 6,
+    "boundingBox": [ 750, 544, 750, 542, 750, 566, 750, 568 ]
+  },
+  {
+    "input": 124,
+    "text": "Food Subtotal :",
+    "label": 5,
+    "boundingBox": [ 302, 571, 479, 574, 479, 600, 302, 597 ]
+  },
+  {
+    "input": 124,
+    "text": "9. 79",
+    "label": 6,
+    "boundingBox": [ 750, 574, 750, 571, 750, 595, 750, 597 ]
+  },
+  {
+    "input": 124,
+    "text": "Tax 1:",
+    "label": 7,
+    "boundingBox": [ 305, 600, 380, 602, 380, 624, 305, 622 ]
+  },
+  {
+    "input": 124,
+    "text": "0. 46",
+    "label": 8,
+    "boundingBox": [ 750, 603, 750, 599, 750, 621, 750, 624 ]
+  },
+  {
+    "input": 124,
+    "text": "TOTAL:",
+    "label": 9,
+    "boundingBox": [ 317, 647, 391, 651, 390, 684, 315, 681 ]
+  },
+  {
+    "input": 124,
+    "text": "$10.25",
+    "label": 10,
+    "boundingBox": [ 739, 655, 750, 648, 750, 690, 743, 700 ]
+  },
+  {
+    "input": 124,
+    "text": "Cash Tendered",
+    "label": 3,
+    "boundingBox": [ 324, 706, 486, 711, 485, 739, 323, 734 ]
+  },
+  {
+    "input": 124,
+    "text": "15.00",
+    "label": 4,
+    "boundingBox": [ 750, 722, 750, 718, 750, 738, 750, 742 ]
+  }
+]
