@@ -1,3 +1,11 @@
 *.pdf
 *.pptx
 *.zip
+*.json
+*.jpg
+src/Lines/*
+src/Lines_with_label/*
+src/Input/*
+src/Draw/*
+src/Total/*
+src/Words/*

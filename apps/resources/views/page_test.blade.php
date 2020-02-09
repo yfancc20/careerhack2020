@@ -11,7 +11,7 @@
 
         <script src="{{ asset('/js/jquery.min.js') }}"></script>
 
-        <title>Processing...</title>
+        <title>Testing...</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -20,7 +20,7 @@
         <div class="container">
             <h2 class="text-center title">
                 <span>
-                    <a href="{{ url('page/' . ($num - 1)) }}">
+                    <a href="{{ url('page/test/' . ($num - 1)) }}">
                         <i class="far fa-angle-left arrow"></i>
                     </a>
                 </span>
@@ -28,7 +28,7 @@
                 {{ $num }}
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <span>
-                    <a href="{{ url('page/' . ($num + 1)) }}">
+                    <a href="{{ url('page/test/' . ($num + 1)) }}">
                         <i class="far fa-angle-right arrow"></i>
                     </a>
                 </span>
@@ -36,7 +36,7 @@
             
             <div class="row">
                 <div class="col-6 image-box pt-2">
-                    <img src="{{ asset('/input/' . $imageFile) }}" class="input-image">
+                    <img src="{{ asset('/input/test/' . $imageFile) }}" class="input-image">
                 </div>
                 <div class="col-6">
                     <div class="row">
@@ -44,8 +44,8 @@
                         @if ($key <= 2)
                             <div class="label-box-top p-2 col-12">
                                 @foreach ($data as $d)
-                                    <a class="lines" href="" data-id="{{$d['text']}}">
-                                    <button class="btn btn-light my-1 textTag" data-id="{{$d['text']}}"
+                                    <a class="lines" href="" data-id="{{$d['id']}}">
+                                    <button class="btn btn-light my-1 textTag" data-id="{{$d['id']}}"
                                     style="background-color:rgba{{$d['color']}}">{{ $d['text'] }}</button>
                                     </a>
                                 @endforeach
@@ -53,8 +53,8 @@
                         @elseif ($key <= 4 && $key >=3)
                             <div class="label-box-mid mb-1 p-2 col-6">
                                 @foreach ($data as $d)
-                                    <a class="lines textTag" href="" data-id="{{$d['text']}}">
-                                        <p><button class="btn btn-light my-1" data-id="{{$d['text']}}"
+                                    <a class="lines textTag" href="" data-id="{{$d['id']}}">
+                                        <p><button class="btn btn-light my-1" data-id="{{$d['id']}}"
                                             style="background-color:rgba{{$d['color']}}">{{ $d['text'] }}</button>
                                         </p>
                                     </a>
@@ -63,8 +63,8 @@
                         @else
                             <div class="label-box-bottom mb-1 p-2">
                                 @foreach ($data as $d)
-                                    <a class="lines" href="" data-id="{{$d['text']}}">
-                                        <button class="btn btn-light my-1 textTag" data-id="{{$d['text']}}">{{ $d['text'] }}</button>
+                                    <a class="lines" href="" data-id="{{$d['id']}}">
+                                        <button class="btn btn-light my-1 textTag" data-id="{{$d['id']}}">{{ $d['text'] }}</button>
                                     </a>
                                 @endforeach
                             </div>
@@ -88,13 +88,13 @@
                     method: 'POST',
                     data: {
                         _token: '{{ csrf_token() }}',
-                        text: $(this).data('id'),
+                        id: $(this).data('id'),
                         num: {{ $num }},
-                        type: 'production',
+                        type: 'test',
                     },
                     dataType: 'json'
                 }).done(function(result) {
-                    location.href = '{{ url('page/' . ($num + 1)) }}';
+                    location.href = '{{ url('page/test/' . ($num + 1)) }}';
                 });
             });
         })

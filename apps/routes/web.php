@@ -17,5 +17,8 @@ Route::get('/', function () {
 
 Route::get('page', 'HomeController@pageList');
 Route::get('page/{num}', 'HomeController@showPage');
+Route::post('page/process', 'HomeController@process');
+
+Route::get('page/test/{num}', 'HomeController@showTestPage');
 
 
